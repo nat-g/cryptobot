@@ -1,1 +1,1 @@
-# cryptobot for GDAX and Poloniex to trade cryptocurrencies. 
+Cryptobot for GDAX and Poloniex to trade cryptocurrencies. 
